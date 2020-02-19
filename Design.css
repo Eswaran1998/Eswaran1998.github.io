@@ -1,4 +1,6 @@
-
+<html>
+<head>
+<style>
   ul {
   list-style-type: none;
   margin: 0;
@@ -27,7 +29,7 @@ li a {
 li a:hover:not(.active) {
   background-color: #ddd;
 }
-
+</style>
 li a.active {
   color: white;
   background-color: #4CAF50;
